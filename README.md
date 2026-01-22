@@ -1,6 +1,6 @@
 [中文文档](README_zh.md)
 
-# Gemini Lossless Watermark Remover - [banana.ovo.re](https://banana.ovo.re)
+# Gemini Lossless Watermark Remover - [Suraj Kumar](https://fb.com/imsurajji)
 
 A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise **Reverse Alpha Blending** algorithm rather than unpredictable AI inpainting.
 
